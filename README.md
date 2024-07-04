@@ -25,7 +25,7 @@
     <ol>
         <li>Run the script:</li>
         <pre>
-            <code>python system_audit_report.py</code>
+            <code>python main.py</code>
         </pre>
         <li>Select the directory where you want to save the reports.</li>
     </ol>
