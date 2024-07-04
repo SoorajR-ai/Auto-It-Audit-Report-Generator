@@ -19,7 +19,7 @@
     <h2>Installation</h2>
     <p>Install the required packages using pip:</p>
     <pre>
-        <code>pip install platform psutil pandas getmac tkinter reportlab</code>
+        <code>pip install -r requirements.txt</code>
     </pre>
     <h2>Usage</h2>
     <ol>
